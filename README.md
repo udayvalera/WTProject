@@ -15,8 +15,8 @@ This is a simple user management system built with PHP and MySQL. It includes fu
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/udayvalera/WTProject.git
+    cd WTProject
     ```
 
 2. **Create the database:**
